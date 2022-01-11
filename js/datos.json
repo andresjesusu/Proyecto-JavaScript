@@ -1,0 +1,7 @@
+[
+    {"id":1, "nombre":"CONSOLA PS4 SLIM 1 TB + GOD OF WAR 4 Y RATCHET AND CLANCK", "imagen":"imagenplay.jpg", "descripcion":[" Consola Slim 1Tb", " Joystick Color Negro", " Cable Corriente", " Cable HDMI", " Cable Cargador", " MonoAuricular", " Garantia Escrita 6 Meses"], "precio":"81000.00"},
+
+    {"id":1, "nombre":"COMBO CONSOLA PS4 SLIM 1 TB + FIFA 2022", "imagen":"imagenplay1.jpg", "descripcion":[" Consola Slim 1Tb", " Joystick Color Negro", " Cable HDMI", " Cable Corriente", " Cable Cargador", " Juego FIFA 2022"], "precio":"85000.00"},
+
+    {"id":1, "nombre":"CONSOLA PS4 SLIM 1TB", "imagen":"imagenplay2.jpg", "descripcion":["Consola modelo SLIM 1Tb ", " Joystick negro original", " Cables de carga", " Cables de conexion", " Garantia escrita"], "precio":"79000.00"}
+]
